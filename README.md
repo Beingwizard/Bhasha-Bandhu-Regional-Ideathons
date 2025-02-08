@@ -26,11 +26,12 @@ You can be a **college, student community, working professional community, devel
 
 ### 🕒 4-hour Mini–Regional Ideathons  
 
-### 🎁 What We Offer:  
+### 🎁 What We Will Provide:  
 ✅ Participants will work on **4 different problem statements**  
 ✅ **Industry mentors** will be available to solve queries during the hack  
 ✅ **Pre-hack hands-on event** on OpenAI and multi-lingual APIs  
 ✅ **Swags** for regional winners  
+✅ **Certificate of Participation**
 
 ### 📌 What We Expect:  
 ✅ **In-person participation**  
