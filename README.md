@@ -46,8 +46,8 @@ You can be a **college, student community, working professional community, devel
 
 | Name of the College/Community   | City   | Date   | Point of Contact   |  
 |---------------------------------|--------|--------|--------------------|  
-|                                 |        |        |                    |  
-|                                 |        |        |                    |  
+|   Microsoft Office,             |Bangalore |  yet to be decided      |                    |  
+|   Microsoft Office,             |Gurgaon  | yet to be decided       |                    |  
 |                                 |        |        |                    |  
 |                                 |        |        |                    |  
 |                                 |        |        |                    |  
