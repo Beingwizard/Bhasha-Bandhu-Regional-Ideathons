@@ -39,11 +39,14 @@ You can be a **college, student community, working professional community, devel
 ✅ **Idea submissions** by every participant  
 ✅ **Basic AV arrangements** (mic, projector)  
 
-### 📌 Process to organise the hackathon:  
-✅ Look after a date in February(before 28th February) when we can plan the Ideathon (4-hour quick Idea submission)
-✅ Shortlisted ideas will be forwarded to the next step and they will get time till 22nd March to work upon their ideas
-✅ Regional winners will be declared on the day of Ideathon and will be given some swags for encouragement but shortlisted ideas isn't limited to winners. For ex: We can have 3 Regional winners but 10 shortlisted ideas for the hackathon
-✅ Offline hack Day with Bhasini & Microsoft officials on 22nd March
+### 📌 Process to Organise the Hackathon  
+
+✅ Look after a date in February (before 28th February) when we can plan the Ideathon (4-hour quick idea submission)  
+✅ Shortlisted ideas will be forwarded to the next step and they will get time till 22nd March to work upon their ideas  
+✅ Regional winners will be declared on the day of Ideathon and will be given some swags for encouragement, but shortlisted ideas aren't limited to winners.  
+For example: We can have 3 regional winners but 10 shortlisted ideas for the hackathon  
+✅ Offline Hack Day with Bhasini & Microsoft officials on 22nd March  
+
 
 > 💡 *Note:* Regionally submitted ideas will also be considered for the **main hackathon**, irrespective of the regional winners. **Winning a regional hackathon does not guarantee a win in the main event.**  
 
