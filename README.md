@@ -56,7 +56,7 @@ For example: We can have 3 regional winners but 10 shortlisted ideas for the hac
 
 | Name of the College/Community   | City   | Date   | Point of Contact   |  
 |---------------------------------|--------|--------|--------------------|  
-|   Microsoft Office,             |Bangalore |  yet to be decided      |                    |  
+|   Microsoft Office,             |Hyderabad |  22nd February     |     [Hyderabad Data & AI Community]([url](https://www.linkedin.com/posts/hyderabad-data-analytics-community_data-community-hackathon-activity-7295647498344222721-5Wdt?utm_source=share&utm_medium=member_desktop))               |  
 |   Microsoft Office,             |Gurgaon  | yet to be decided       |                    |  
 |                                 |        |        |                    |  
 |                                 |        |        |                    |  
