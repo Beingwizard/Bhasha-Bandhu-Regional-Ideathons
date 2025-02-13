@@ -49,20 +49,21 @@ For example: We can have 3 regional winners but 10 shortlisted ideas for the hac
 
 ### 📌 Ideathon Day ~ 4hrs
 
-✅ 30 minutes - Mentors explanining about Bhashini API, Open API, GitHub Copilot (best practices, how to use those)
-✅ 5 minutes - Mentors explaining about the Problem Statement
-✅ 25 minutes - QnA
-✅ Next 2 hours - Brainstorming Ideas, creating ppt
-✅ 1.5 hour - Mentor evaluating the scores for Regional Winners
-✅ 30 minutes - Regional Winner Announcement & Facilitation 
+✅ 30 minutes - Mentors explaining about Bhashini API, Open API, GitHub Copilot (best practices, how to use those)  
+✅ 5 minutes - Mentors explaining about the Problem Statement  
+✅ 25 minutes - QnA  
+✅ Next 2 hours - Brainstorming Ideas, creating ppt  
+✅ 1.5 hour - Mentor evaluating the scores for Regional Winners  
+✅ 30 minutes - Regional Winner Announcement & Facilitation  
 
 ### 📌 What participants have to submit on Ideathon Day
 
-✅ Ppt with following details: Problem Statement, Solution Statement, Use of Bhashini API and Open AI, other Tech Stack used, Unique Selling Proposition, Business Potential
-✅ Idea Title
-✅ Brief Explanation about the Idea submitted
-✅ How the problem is being solved with Bhashini
-✅ Problem Statement Chosen
+✅ Ppt with following details: Problem Statement, Solution Statement, Use of Bhashini API and Open AI, other Tech Stack used, Unique Selling Proposition, Business Potential  
+✅ Idea Title  
+✅ Brief Explanation about the Idea submitted  
+✅ How the problem is being solved with Bhashini  
+✅ Problem Statement Chosen  
+
 
 <img width="530" alt="image" src="https://github.com/user-attachments/assets/ec3a8877-19a8-42c5-9153-9537e37fe271" />
 
