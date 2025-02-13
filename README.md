@@ -77,16 +77,27 @@ For example: We can have 3 regional winners but 10 shortlisted ideas for the hac
 
 | Name of the College/Community   | City   | Date   | Point of Contact   |  
 |---------------------------------|--------|--------|--------------------|  
-|   Microsoft Office,             |Hyderabad |  22nd February     |    Hyderabad Data & AI Community               |  
-|   Microsoft Office,             |Gurgaon  | yet to be decided       |                    |  
-|                                 |        |        |                    |  
-|                                 |        |        |                    |  
-|                                 |        |        |                    |  
-|                                 |        |        |                    |  
-|                                 |        |        |                    |  
-|                                 |        |        |                    |  
-|                                 |        |        |                    |  
-|                                 |        |        |                    |  
+|  Hyderabad Data & AI Community |Hyderabad |  22nd February     |    Hyderabad Data & AI Community |  
+|  Shri G S Institute of Technology & Science  |Indore  | yet to be decided       |   Satyam Singhal|  
+|  KIET Group of Institutions | Ghaziabad     | 25th February | MLSA KIET Community  |  
+|  Young Indians   | Coimbatore    | 19th February   | Chanakya Jayabalan|  
+|  Amity University | Bangalore | 18th February| Dr. Kumar Shashvat & Peeyush Rampal |  
+|  Yatri Cloud | Bangalore       | 26th February | Yatharth Chauhan |  
+|  Vardhaman College of Engineering | Telangana |27th February    | SAI PRASHANTH MALLELLU |  
+|  Bangalore Institute of Technology | Bangalore | 27th February |OSCode Community   |  
+|  Chandigarh University  |Chandigarh | 27 February   | Kartik Bansal  |  
+|  Guru Jambheshwar University of Science and Technology | Hisar | 24 February| Sarita |  
+|  Alliance University| Bangalore | 20th February | Abhishek Das |  
+|  Indian Institute of Technology (IIT) | Patna | 16th February| Hemant Kumar |  
+|  MIT Art, Design and Technology University | Kalbhor, Pune,Maharashtra  | 18th February | Priya Kutwal |  
+|  Rajiv Gandhi Institute of Petroleum Technology| Amethi | yet to be announced | Devisha |  
+|  Jodhpur Institute of Engineering and Technology | Jodhpur | yet to be announced | Sanjay Bhandari & Vivek |
+|---------------------------------|--------|--------|--------------------|
+|---------------------------------|--------|--------|--------------------|
+|---------------------------------|--------|--------|--------------------|
+|---------------------------------|--------|--------|--------------------|
+
+
 
 --- 
 
