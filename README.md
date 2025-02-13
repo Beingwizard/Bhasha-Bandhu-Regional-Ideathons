@@ -47,6 +47,26 @@ You can be a **college, student community, working professional community, devel
 For example: We can have 3 regional winners but 10 shortlisted ideas for the hackathon  
 ✅ Offline Hack Day with Bhasini & Microsoft officials on 22nd March  
 
+### 📌 Ideathon Day ~ 4hrs
+
+✅ 30 minutes - Mentors explanining about Bhashini API, Open API, GitHub Copilot (best practices, how to use those)
+✅ 5 minutes - Mentors explaining about the Problem Statement
+✅ 25 minutes - QnA
+✅ Next 2 hours - Brainstorming Ideas, creating ppt
+✅ 1.5 hour - Mentor evaluating the scores for Regional Winners
+✅ 30 minutes - Regional Winner Announcement & Facilitation 
+
+### 📌 What participants have to submit on Ideathon Day
+
+✅ Ppt with following details: Problem Statement, Solution Statement, Use of Bhashini API and Open AI, other Tech Stack used, Unique Selling Proposition, Business Potential
+✅ Idea Title
+✅ Brief Explanation about the Idea submitted
+✅ How the problem is being solved with Bhashini
+✅ Problem Statement Chosen
+
+<img width="530" alt="image" src="https://github.com/user-attachments/assets/ec3a8877-19a8-42c5-9153-9537e37fe271" />
+
+
 
 > 💡 *Note:* Regionally submitted ideas will also be considered for the **main hackathon**, irrespective of the regional winners. **Winning a regional hackathon does not guarantee a win in the main event.**  
 
@@ -56,7 +76,7 @@ For example: We can have 3 regional winners but 10 shortlisted ideas for the hac
 
 | Name of the College/Community   | City   | Date   | Point of Contact   |  
 |---------------------------------|--------|--------|--------------------|  
-|   Microsoft Office,             |Hyderabad |  22nd February     |     [Hyderabad Data & AI Community]([url](https://www.linkedin.com/posts/hyderabad-data-analytics-community_data-community-hackathon-activity-7295647498344222721-5Wdt?utm_source=share&utm_medium=member_desktop))               |  
+|   Microsoft Office,             |Hyderabad |  22nd February     |    Hyderabad Data & AI Community               |  
 |   Microsoft Office,             |Gurgaon  | yet to be decided       |                    |  
 |                                 |        |        |                    |  
 |                                 |        |        |                    |  
