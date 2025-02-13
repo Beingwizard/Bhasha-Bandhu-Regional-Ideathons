@@ -92,7 +92,7 @@ For example: We can have 3 regional winners but 10 shortlisted ideas for the hac
 |  MIT Art, Design and Technology University | Kalbhor, Pune,Maharashtra  | 18th February | Priya Kutwal |  
 |  Rajiv Gandhi Institute of Petroleum Technology| Amethi | yet to be announced | Devisha |  
 |  Jodhpur Institute of Engineering and Technology | Jodhpur | yet to be announced | Sanjay Bhandari & Vivek |
-|---------------------------------|--------|--------|--------------------|
+|  AMC Engineering College | Bangalore |19th February |Ayush|
 |---------------------------------|--------|--------|--------------------|
 |---------------------------------|--------|--------|--------------------|
 |---------------------------------|--------|--------|--------------------|
