@@ -90,12 +90,20 @@ For example: We can have 3 regional winners but 10 shortlisted ideas for the hac
 |  Alliance University| Bangalore | 20th February | Abhishek Das |  
 |  Indian Institute of Technology (IIT) | Patna | 16th February| Hemant Kumar |  
 |  MIT Art, Design and Technology University | Kalbhor, Pune,Maharashtra  | 18th February | Priya Kutwal |  
-|  Rajiv Gandhi Institute of Petroleum Technology| Amethi | yet to be announced | Devisha |  
+|  Rajiv Gandhi Institute of Petroleum Technology| Amethi | 21st February | Devisha |  
 |  Jodhpur Institute of Engineering and Technology | Jodhpur | yet to be announced | Sanjay Bhandari & Vivek |
 |  AMC Engineering College | Bangalore |19th February |Ayush|
-|---------------------------------|--------|--------|--------------------|
-|---------------------------------|--------|--------|--------------------|
-|---------------------------------|--------|--------|--------------------|
+|  Kolkata|Kolkata|24th February|Saumili Dutta|
+|  Dayananda Sagar University|Bangalore|20th February|Mohammed Uvez KHAN|
+|  Keshav Memorial Institute of Technology|Hyderabad|24th February|Nikhil Guru Venkatesh|
+|  Hackfed   | Noida   | 25th February   | Ujjawal & Anurag  | 
+| Name of the College/Community   | City   | Date   | Point of Contact   | 
+| Name of the College/Community   | City   | Date   | Point of Contact   | 
+| Name of the College/Community   | City   | Date   | Point of Contact   | 
+| Name of the College/Community   | City   | Date   | Point of Contact   | 
+| Name of the College/Community   | City   | Date   | Point of Contact   | 
+| Name of the College/Community   | City   | Date   | Point of Contact   | 
+| Name of the College/Community   | City   | Date   | Point of Contact   | 
 
 
 
