@@ -7,7 +7,7 @@ Welcome to the **Bhasha Bandhu Hackathon**, a pioneering event presented by **Bh
 
 Bhashini, endorsed by the **Ministry of Electronics & Information Technology (MeitY)**, provides open-source AI models and datasets through the **Digital India Bhashini initiative**. Our aim is to foster an ecosystem of **innovation and digital empowerment** that enhances accessibility and inclusion across India.  
 
-🔗 **Register Here**: [Bhasha Bandhu Hackathon | Bhasha Hackathon 2025, Register Today!](#)  
+🔗 **Register Here**: [Bhasha Bandhu Hackathon | Bhasha Hackathon 2025, Register Today!](https://www.bhashabandhu.com/auth/register)  
 
 📺 **Soft Launch of the Hackathon**: [Bhasha Bandhu Hackathon Online Launch - YouTube](https://www.youtube.com/watch?v=907)  
 
