@@ -75,35 +75,32 @@ For example: We can have 3 regional winners but 10 shortlisted ideas for the hac
 
 ---
 
-| Name of the College/Community   | City   | Date   | Point of Contact   |  
-|---------------------------------|--------|--------|--------------------|  
-|  Hyderabad Data & AI Community |Hyderabad |  22nd February     |    Hyderabad Data & AI Community |  
-|  Shri G S Institute of Technology & Science  |Indore  | yet to be decided       |   Satyam Singhal|  
-|  KIET Group of Institutions | Ghaziabad     | 25th February | MLSA KIET Community  |  
-|  Young Indians   | Coimbatore    | 19th February   | Chanakya Jayabalan|  
-|  Amity University | Bangalore | 18th February| Dr. Kumar Shashvat & Peeyush Rampal |  
-|  Yatri Cloud | Bangalore       | 26th February | Yatharth Chauhan |  
-|  Vardhaman College of Engineering | Telangana |27th February    | SAI PRASHANTH MALLELLU |  
-|  Bangalore Institute of Technology | Bangalore | 27th February |OSCode Community   |  
-|  Chandigarh University  |Chandigarh | 27 February   | Kartik Bansal  |  
-|  Guru Jambheshwar University of Science and Technology | Hisar | 24 February| Sarita |  
-|  Alliance University| Bangalore | 20th February | Abhishek Das |  
-|  Indian Institute of Technology (IIT) | Patna | 16th February| Hemant Kumar |  
-|  MIT Art, Design and Technology University | Kalbhor, Pune,Maharashtra  | 18th February | Priya Kutwal |  
-|  Rajiv Gandhi Institute of Petroleum Technology| Amethi | 21st February | Devisha |  
-|  Jodhpur Institute of Engineering and Technology | Jodhpur | yet to be announced | Sanjay Bhandari & Vivek |
-|  AMC Engineering College | Bangalore |19th February |Ayush|
-|  Kolkata|Kolkata|24th February|Saumili Dutta|
-|  Dayananda Sagar University|Bangalore|20th February|Mohammed Uvez KHAN|
-|  Keshav Memorial Institute of Technology|Hyderabad|24th February|Nikhil Guru Venkatesh|
-|  Hackfed   | Noida   | 25th February   | Ujjawal & Anurag  | 
-| Name of the College/Community   | City   | Date   | Point of Contact   | 
-| Name of the College/Community   | City   | Date   | Point of Contact   | 
-| Name of the College/Community   | City   | Date   | Point of Contact   | 
-| Name of the College/Community   | City   | Date   | Point of Contact   | 
-| Name of the College/Community   | City   | Date   | Point of Contact   | 
-| Name of the College/Community   | City   | Date   | Point of Contact   | 
-| Name of the College/Community   | City   | Date   | Point of Contact   | 
+Here is the updated markdown table without "Yatri Cloud":  
+
+| College Name                                      | City         | Date           | MVPs Involved                                                 | LinkedIn Link  |
+|--------------------------------------------------|-------------|---------------|--------------------------------------------------------------|----------------|
+| Coimbatore Institute of Technology              | Coimbatore  | 19th February  | Sarthak Jain, Dr. Gomathi S                                  | [Link](https://www.linkedin.com/posts/id8devvhub_speakers-activity-7297620411960188929-d-wr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0a2lMBrxUw5mawzfueEt8LzVW4TwlQNHk) |
+| Microsoft Learn Campus Connect CMRIT            | Hyderabad   | 20th February  | Abhilekh Verma                                               | [Link](https://www.linkedin.com/posts/id8devvhub_aiinnovationday-ideathon-bhashabandhu-activity-7297963738601603072-0coD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0a2lMBrxUw5mawzfueEt8LzVW4TwlQNHk) |
+| Keshav Memorial Institute of Technology         | Hyderabad   | 21st February  | Thodepurinath Bharath                                        | [Link](https://www.linkedin.com/posts/id8devvhub_aiinnovationday-kmithyderabad-ideastoimpact-activity-7298403822962401281-DwG7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0a2lMBrxUw5mawzfueEt8LzVW4TwlQNHk) |
+| Shri G S Institute of Technology & Science     | Indore      | 22nd February  | No MVPs involved, MVP mentorship circle experts involved    | [Link](https://www.linkedin.com/posts/id8devvhub_speakers-activity-7298731897226993664-wIim?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0a2lMBrxUw5mawzfueEt8LzVW4TwlQNHk) |
+| Amity University                                | Bangalore   | 20th February  |                                                              | [Link](https://www.linkedin.com/posts/id8devvhub_speakers-activity-7297643331453358081-U2G5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0a2lMBrxUw5mawzfueEt8LzVW4TwlQNHk) |
+| AMC Engineering College                         | Bangalore   | 21st February  | Poornima S, Samik Roy, Lalit Rawat                          | [Link](https://www.linkedin.com/posts/id8devvhub_speakers-activity-7298528577686265857-BAu3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0a2lMBrxUw5mawzfueEt8LzVW4TwlQNHk) |
+| Rajiv Gandhi Institute of Petroleum Technology  | Amethi      | 21st February  | Sarthak Jain                                                 | [Link](https://www.linkedin.com/posts/id8devvhub_aiinnovationday-bhashabandhu-id8devhub-activity-7298330177565003777-J8qF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0a2lMBrxUw5mawzfueEt8LzVW4TwlQNHk) |
+| JECRC College                                  | Jaipur      | 21st February  |                                                              | [Link](https://www.linkedin.com/posts/id8devvhub_speakers-activity-7298296865702264832-9g2_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0a2lMBrxUw5mawzfueEt8LzVW4TwlQNHk) |
+| Hyderabad Data & AI Community                  | Hyderabad   | 22nd February  | Thodepurinath Bharath, Viswanath Swamy                      | [Link](https://www.linkedin.com/posts/id8devvhub_speakers-activity-7298919387573444608-cRmr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0a2lMBrxUw5mawzfueEt8LzVW4TwlQNHk) |
+| Thapar University                              | Patiala     | 23rd February  |                                                              | [Link](https://www.linkedin.com/posts/id8devvhub_amc-thapar-activity-7299093599755902976-8H8s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0a2lMBrxUw5mawzfueEt8LzVW4TwlQNHk) |
+| Reva University                                | Bangalore   | 24th February  |                                                              | [Link](https://www.linkedin.com/posts/id8devvhub_aiinnovationday-bhashabandhu-id8devhub-activity-7299497332268523520-W-jr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0a2lMBrxUw5mawzfueEt8LzVW4TwlQNHk) |
+| Dayananda Sagar University                     | Bangalore   | 25th February  | Poornima S, MD Azarudeen, Arpita Das                        | [Link](https://www.linkedin.com/posts/id8devvhub_dsu-activity-7299757170269515781-RHCE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0a2lMBrxUw5mawzfueEt8LzVW4TwlQNHk) |
+| Vemana Institute of Technology                 | Bangalore   | 25th February  |                                                              | [Link](https://www.linkedin.com/posts/id8devvhub_vemana-activity-7299765692713635840-2DSE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0a2lMBrxUw5mawzfueEt8LzVW4TwlQNHk) |
+| Vardhaman College of Engineering               | Telangana   | 27th February  |                                                              | |
+| Lovely Professional University                 | Jalandhar   |                |                                                              | [Link](https://www.linkedin.com/posts/id8devvhub_lpu-punjab-activity-7299498642095181824-hc-I?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0a2lMBrxUw5mawzfueEt8LzVW4TwlQNHk) |
+| Sambhram Institute of Technology               |             | 27th February  |                                                              | |
+| Chandigarh University                          | Chandigarh  | 28th February  | Jasjit Chopra                                                | |
+| Bangalore Institute of Technology              | Bangalore   | 27th February  | Saurav Raghuvanshi, MD Azarudeen, Vinodh Kumar              | |
+| KIET Group of Institutions                     | Ghaziabad   | 25th February  | Ramit Paul, Aavisek Choudhury                                | |
+| University School of Automation & Robotics     | Delhi       | 28th February  | Rohit Yadav                                                  | |
+| Alliance University                            | Bangalore   | 25th February  | Ankit Sharma, Samik Roy, Lalit Rawat, Roopal Mittal         | |
+| Sri Krishna Institute of Technology            |             | 27th February  |                                                              | |
 
 
 
