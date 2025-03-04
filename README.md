@@ -19,6 +19,8 @@ You're a **working professional, student, or entrepreneur**, this hackathon welc
 
 ---
 
+## Proud Moment for Bhashini Hack
+Bhashini, implemented by Digital India Bhashini Division (DIBD), is honored to be recognized by the Hon’ble President of India during the address to both Houses of Parliament. This milestone reaffirms our commitment to building an inclusive and empowered society through AI-driven language solutions. [Praised by President of India](https://www.linkedin.com/feed/update/urn:li:activity:7292486554046898176/)
 
 ## 🌍 Organizing Mini-Hackathons in Your College/Community  
 
@@ -100,5 +102,8 @@ Here is the updated markdown table without "Yatri Cloud":
 
 
 --- 
+
+## Next Step after *Ideathon*
+Once you're done with Idea Submission, wait until you recieve shortlisting announcement for the next Coding Round. The will be moderated by ID8Nxt Team. Reach to bhashini@id8nxt.com for any queries. 
 
 🚀 **Join us and be a part of India's linguistic AI revolution!** 🚀  
