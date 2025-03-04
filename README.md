@@ -96,7 +96,7 @@ Here is the updated markdown table without "Yatri Cloud":
 | Lovely Professional University                 | Jalandhar   |                |   Sarthak Jain                                                           | [Link](https://www.linkedin.com/posts/id8devvhub_lpu-punjab-activity-7299498642095181824-hc-I?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC0a2lMBrxUw5mawzfueEt8LzVW4TwlQNHk) |
 | Sambhram Institute of Technology               |             | 27th February  |  Parul Chaddha, Lakshit Pant, Lalit Rawat, Naman Sinha                                                            | |
 | Chandigarh University                          | Chandigarh  | 28th February  | Lakshit Pant, Shivani Joshi, Michelle R, Dibyasom Puhan                                                | |
-
+| Srinivas Institute of Technology                          | Mangalore  | 28th February  | Lalit Rawat, Lingraj Benni                                                | |
 
 
 --- 
